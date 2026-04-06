@@ -151,7 +151,7 @@ Contributions are welcome! Feel free to fork and submit pull requests.
 ## 📧 Contact
 
 **Chaitanya**
-🔗 LinkedIn: https://linkedin.com/in/your-profile
+🔗 LinkedIn: https://linkedin.com/in/srichaitanyakella/
 
 ---
 
